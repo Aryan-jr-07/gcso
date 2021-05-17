@@ -1,2 +1,3 @@
 # p5.play-boilerplate
-https://github.com/Aryan-jr-07/gcso.git
+https://aryan-jr-07.github.io/gcso/
+
